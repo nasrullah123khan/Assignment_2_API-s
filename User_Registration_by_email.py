@@ -7,7 +7,7 @@ mysql = MySQL(app)
 
 app.config['MYSQL_HOST']='localhost'
 app.config['MYSQL_USER']='root'
-app.config['MYSQL_PASSWORD'] = "Nasrullah123%"
+app.config['MYSQL_PASSWORD'] = "db"
 app.config['MYSQL_DB']= 'mydb'
 
 
